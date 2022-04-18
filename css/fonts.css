@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('../fonts/Comfortaa-Light.eot');
+    src: url('../fonts/Comfortaa-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Comfortaa-Light.woff2') format('woff2'),
+        url('../fonts/Comfortaa-Light.woff') format('woff'),
+        url('../fonts/Comfortaa-Light.svg#Comfortaa-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
